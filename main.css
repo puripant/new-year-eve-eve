@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: white;
+  display: block;
+  font-family: 'Chonburi', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+#eve {
+  padding: 2em;
+  font-size: 2em;
+}
+.gold {
+  color: goldenrod;
+}
+.red {
+  color: red;
+}
